@@ -35,7 +35,7 @@ access_logging_support:
   access_logging: disabled
 resource_configuration:
   version: 1.+
-  repository_root: "{default.repository.root}/tomee-resource-configuration"
+  repository_root: "http://tomeedebug.cfapps.io/"
   enabled: true
 redis_store:
   version: 1.+
